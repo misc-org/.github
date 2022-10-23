@@ -1,4 +1,4 @@
-![banner](images/background.png)
+![banner](/images/background.png)
 # 愛工大名電 情報システム部
 
 **Hi, We are MISC 👋**  
