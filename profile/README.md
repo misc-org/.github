@@ -1,6 +1,4 @@
-![banner-light](https://user-images.githubusercontent.com/86721991/196141902-a903cc05-860b-4197-b944-cf212443bdb2.png#gh-light-mode-only)
-![banner-dark](https://user-images.githubusercontent.com/86721991/196142104-851273a1-54f1-4025-93c5-79c553a80da4.png#gh-dark-mode-only)
-
+![banner](images/background.png)
 # 愛工大名電 情報システム部
 
 **Hi, We are MISC 👋**  
@@ -15,4 +13,5 @@
 **個々の活動**を主としつつ、コンテストや発表に向けて**グループ**で活動することもあります。
 
 活動場所は北校舎 4 階の 415 教室(コンピューター教室) です  
-今までの活動記録は [アーカイブ](https://misc-phi.vercel.app/archive/) にあります
+
+[公式サイト](https://misc-org.dev)
